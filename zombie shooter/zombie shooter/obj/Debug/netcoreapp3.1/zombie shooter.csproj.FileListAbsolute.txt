@@ -1,0 +1,16 @@
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.exe
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.deps.json
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.runtimeconfig.json
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.runtimeconfig.dev.json
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.dll
+E:\C#\project game\zombie shooter\zombie shooter\bin\Debug\netcoreapp3.1\zombie shooter.pdb
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.csprojAssemblyReference.cache
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie_shooter.Form1.resources
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie_shooter.Properties.Resources.resources
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.csproj.GenerateResource.cache
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.AssemblyInfoInputs.cache
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.AssemblyInfo.cs
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.csproj.CoreCompileInputs.cache
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.dll
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.pdb
+E:\C#\project game\zombie shooter\zombie shooter\obj\Debug\netcoreapp3.1\zombie shooter.genruntimeconfig.cache
